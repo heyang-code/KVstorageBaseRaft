@@ -8,7 +8,6 @@ raft_DB：基于Raft的k-v存储数据库，主要用于观察选举过程
 # 项目文档目录说明
 1
 2
-3
 # 项目编译运行
 Cmake一键编译启动
 mkdir cmake-build-debug
