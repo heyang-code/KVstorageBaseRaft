@@ -7,7 +7,6 @@ rpc：muduo和rpc框架相关内容
 raft_DB：基于Raft的k-v存储数据库，主要用于观察选举过程  
 # 项目编译运行
 先创建项目编译目录 mkdir cmake-build-debug
-
 cd cmake-build-debug
 cmake ..
 make
