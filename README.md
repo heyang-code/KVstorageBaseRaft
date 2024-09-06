@@ -10,7 +10,7 @@
 2. cd cmake-build-debug
 3. cmake ..
 4. make
-
+## [项目主要文档目录说明](https://github.com/heyang-code/KVstorageBaseRaft/blob/main/docs/%E9%A1%B9%E7%9B%AE%E7%9B%AE%E5%BD%95%E5%A4%A7%E7%BA%B2)
 
 
 
