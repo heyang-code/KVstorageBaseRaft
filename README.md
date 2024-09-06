@@ -10,11 +10,10 @@ raft_DB：基于Raft的k-v存储数据库，主要用于观察选举过程
 cd cmake-build-debug
 cmake ..
 make
-main：实现一个简单的clerk  
-rpc：muduo和rpc框架相关内容  
-raft_DB：基于Raft的k-v存储数据库，主要用于观察选举过程  
-rpc：muduo和rpc框架相关内容  
-raft_DB：基于Raft的k-v存储数据库，主要用于观察选举过程  
+cd cmake-build-debug 
+cmake ..  
+make 
+
 
 
 
