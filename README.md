@@ -2,7 +2,7 @@
 ## cpp实现的基于Raft算法的k-v存储数据库
 本项目主要是学习Raft的原理，并实现一个简单的k-v存储数据库
 ## 分支说明
-*main：实现一个简单的clerk  
+*main：整合项目主体框架和最新内容，实现一个简单的clerk  
 *rpc：muduo和rpc框架相关内容  
 *raft_DB：基于Raft的k-v存储数据库，主要用于观察选举过程  
 ## 项目编译运行
@@ -10,7 +10,7 @@
 2. cd cmake-build-debug
 3. cmake ..
 4. make
-## [项目主要文档目录说明](https://github.com/heyang-code/KVstorageBaseRaft/blob/main/docs/%E9%A1%B9%E7%9B%AE%E7%9B%AE%E5%BD%95%E5%A4%A7%E7%BA%B2)
+### [项目主要文档目录说明](https://github.com/heyang-code/KVstorageBaseRaft/blob/main/docs/%E9%A1%B9%E7%9B%AE%E7%9B%AE%E5%BD%95%E5%A4%A7%E7%BA%B2)
 
 
 
